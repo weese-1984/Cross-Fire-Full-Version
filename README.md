@@ -255,4 +255,4 @@ This repository serves as the official landing page for Cross Fire. The software
 **Get the most recent version of Cross Fire today!**
 
 ---
-**Last updated:** 2026-09-20 10:55:26 UTC
+**Last updated:** 2026-09-20 14:37:07 UTC
